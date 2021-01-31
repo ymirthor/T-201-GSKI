@@ -1,0 +1,293 @@
+rm Bjartur-leidinlegi-2
+mkdir Kristofer-fagri-1
+rm Gardar-fagri-0
+rm Bjartur-fagri-7
+cd Bjartur-skemmtilegi-9
+ls 
+cd Bjartur-leidinlegi-6
+mkdir Gardar-hommi-0
+rm Gardar-leidinlegi-1
+cd Ymir-fagri-3
+ls 
+rm Kristofer-leidinlegi-9
+mkdir Danni-leidinlegi-1
+mkdir Eggert-leidinlegi-4
+rm Eggert-fagri-8
+ls 
+cd Gardar-leidinlegi-0
+rm Jason-hommi-0
+mkdir Ymir-hommi-0
+cd Ymir-fagri-6
+mkdir Jason-leidinlegi-3
+cd Bjartur-leidinlegi-3
+ls 
+ls 
+cd Ymir-fagri-4
+mkdir Kristofer-hommi-0
+cd Eggert-leidinlegi-2
+cd Gardar-leidinlegi-1
+mkdir Bjartur-hommi-7
+mkdir Ymir-hommi-1
+mkdir Kristofer-hommi-6
+rm Jason-hommi-5
+mkdir Bjartur-hommi-1
+ls 
+mkdir Kristofer-leidinlegi-0
+ls 
+cd Gardar-hommi-7
+ls 
+mkdir Danni-hommi-7
+cd Danni-fagri-7
+rm Bjartur-hommi-2
+mkdir Jason-skemmtilegi-6
+mkdir Eggert-fagri-2
+cd Eggert-fagri-4
+rm Bjartur-hommi-5
+rm Eggert-skemmtilegi-4
+cd Ymir-skemmtilegi-8
+ls 
+ls 
+rm Kristofer-skemmtilegi-8
+mkdir Kristofer-hommi-2
+rm Jason-skemmtilegi-3
+mkdir Eggert-skemmtilegi-3
+rm Danni-leidinlegi-9
+ls 
+cd Eggert-skemmtilegi-2
+ls 
+cd Eggert-leidinlegi-4
+mkdir Danni-leidinlegi-5
+mkdir Kristofer-leidinlegi-6
+cd Bjartur-hommi-0
+cd Kristofer-skemmtilegi-5
+cd Gardar-fagri-0
+mkdir Gardar-skemmtilegi-8
+cd Kristofer-skemmtilegi-7
+rm Eggert-skemmtilegi-5
+ls 
+cd Ymir-hommi-8
+ls 
+cd Ymir-leidinlegi-5
+mkdir Gardar-skemmtilegi-4
+ls 
+mkdir Eggert-skemmtilegi-6
+cd Bjartur-leidinlegi-0
+ls 
+mkdir Bjartur-hommi-7
+rm Gardar-fagri-8
+mkdir Kristofer-hommi-2
+mkdir Bjartur-hommi-7
+mkdir Eggert-leidinlegi-9
+ls 
+cd Ymir-skemmtilegi-7
+mkdir Gardar-leidinlegi-0
+rm Kristofer-fagri-7
+cd Danni-skemmtilegi-9
+ls 
+mkdir Eggert-hommi-2
+rm Danni-hommi-9
+cd Bjartur-skemmtilegi-2
+rm Kristofer-skemmtilegi-1
+cd Ymir-leidinlegi-2
+cd Kristofer-skemmtilegi-8
+mkdir Kristofer-skemmtilegi-3
+cd Danni-fagri-8
+cd Danni-hommi-9
+rm Ymir-hommi-7
+ls 
+rm Ymir-skemmtilegi-5
+cd Gardar-fagri-9
+cd Danni-skemmtilegi-6
+cd Eggert-skemmtilegi-9
+ls 
+ls 
+cd Gardar-hommi-6
+cd Bjartur-leidinlegi-0
+cd Ymir-fagri-6
+mkdir Bjartur-skemmtilegi-9
+cd Gardar-hommi-8
+ls 
+ls 
+rm Danni-skemmtilegi-7
+ls 
+ls 
+ls 
+mkdir Kristofer-leidinlegi-2
+mkdir Jason-hommi-0
+mkdir Ymir-skemmtilegi-0
+ls 
+rm Eggert-fagri-3
+mkdir Eggert-leidinlegi-1
+cd Jason-skemmtilegi-9
+rm Eggert-skemmtilegi-5
+ls 
+cd Danni-hommi-6
+cd Bjartur-skemmtilegi-2
+rm Bjartur-hommi-7
+ls 
+ls 
+cd Jason-fagri-6
+rm Ymir-hommi-5
+rm Eggert-skemmtilegi-6
+rm Bjartur-leidinlegi-6
+mkdir Bjartur-hommi-0
+cd Eggert-leidinlegi-2
+rm Danni-skemmtilegi-1
+mkdir Gardar-fagri-9
+mkdir Danni-hommi-3
+mkdir Bjartur-leidinlegi-6
+mkdir Ymir-leidinlegi-5
+mkdir Kristofer-fagri-2
+ls 
+cd Eggert-hommi-2
+rm Eggert-skemmtilegi-8
+mkdir Gardar-leidinlegi-1
+mkdir Bjartur-fagri-4
+mkdir Eggert-fagri-0
+cd Bjartur-leidinlegi-1
+ls 
+cd Jason-leidinlegi-8
+ls 
+mkdir Kristofer-skemmtilegi-1
+ls 
+cd Jason-leidinlegi-7
+mkdir Danni-hommi-8
+mkdir Gardar-leidinlegi-5
+rm Bjartur-leidinlegi-4
+cd Eggert-leidinlegi-7
+ls 
+ls 
+cd Ymir-hommi-3
+mkdir Ymir-leidinlegi-9
+rm Bjartur-leidinlegi-0
+mkdir Eggert-leidinlegi-1
+mkdir Kristofer-leidinlegi-7
+rm Danni-leidinlegi-8
+mkdir Danni-fagri-8
+cd Ymir-fagri-1
+rm Danni-hommi-9
+ls 
+ls 
+cd Danni-skemmtilegi-5
+rm Jason-hommi-6
+ls 
+rm Gardar-leidinlegi-1
+cd Ymir-hommi-7
+ls 
+mkdir Jason-fagri-8
+rm Gardar-skemmtilegi-3
+rm Danni-skemmtilegi-5
+rm Jason-hommi-8
+ls 
+mkdir Ymir-leidinlegi-5
+ls 
+rm Eggert-skemmtilegi-8
+rm Jason-hommi-9
+cd Gardar-leidinlegi-6
+mkdir Bjartur-skemmtilegi-9
+cd Jason-hommi-5
+rm Danni-fagri-8
+mkdir Kristofer-leidinlegi-3
+ls 
+mkdir Eggert-leidinlegi-9
+rm Ymir-leidinlegi-9
+mkdir Ymir-fagri-5
+mkdir Danni-leidinlegi-7
+ls 
+cd Danni-hommi-4
+cd Danni-hommi-2
+ls 
+rm Gardar-fagri-3
+cd Gardar-leidinlegi-5
+ls 
+cd Ymir-hommi-1
+rm Eggert-fagri-6
+ls 
+ls 
+cd Kristofer-skemmtilegi-0
+ls 
+cd Danni-fagri-1
+ls 
+ls 
+ls 
+rm Eggert-hommi-1
+cd Ymir-hommi-4
+rm Eggert-skemmtilegi-7
+ls 
+mkdir Jason-skemmtilegi-6
+ls 
+mkdir Eggert-fagri-0
+rm Bjartur-fagri-6
+mkdir Gardar-fagri-3
+cd Bjartur-skemmtilegi-9
+ls 
+ls 
+cd Eggert-fagri-6
+ls 
+mkdir Bjartur-leidinlegi-8
+rm Jason-fagri-0
+ls 
+ls 
+ls 
+ls 
+cd Ymir-skemmtilegi-3
+mkdir Kristofer-leidinlegi-9
+ls 
+ls 
+cd Jason-skemmtilegi-6
+rm Eggert-leidinlegi-9
+mkdir Jason-skemmtilegi-2
+rm Eggert-skemmtilegi-7
+ls 
+ls 
+mkdir Eggert-hommi-1
+cd Gardar-skemmtilegi-6
+rm Kristofer-fagri-5
+rm Gardar-fagri-0
+ls 
+mkdir Jason-hommi-0
+ls 
+cd Eggert-skemmtilegi-4
+cd Eggert-hommi-3
+cd Gardar-skemmtilegi-5
+rm Gardar-skemmtilegi-2
+cd Gardar-hommi-3
+ls 
+rm Danni-hommi-3
+ls 
+rm Kristofer-fagri-6
+ls 
+ls 
+cd Gardar-fagri-9
+ls 
+cd Danni-fagri-5
+rm Bjartur-hommi-8
+rm Eggert-skemmtilegi-2
+rm Kristofer-leidinlegi-3
+mkdir Ymir-fagri-5
+rm Ymir-skemmtilegi-0
+cd Ymir-leidinlegi-3
+cd Kristofer-skemmtilegi-2
+ls 
+rm Kristofer-skemmtilegi-3
+ls 
+mkdir Gardar-fagri-4
+ls 
+rm Kristofer-fagri-9
+rm Gardar-skemmtilegi-3
+rm Kristofer-fagri-6
+rm Ymir-skemmtilegi-3
+ls 
+ls 
+ls 
+rm Gardar-skemmtilegi-5
+mkdir Ymir-hommi-3
+ls 
+cd Jason-fagri-9
+cd Jason-fagri-1
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..

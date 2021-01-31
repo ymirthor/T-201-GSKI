@@ -1,0 +1,49 @@
+{
+    "members": [
+        {
+            "name": "Gar\u00f0ar",
+            "phone": "6182827",
+            "email": "gardar19@ru.is",
+            "year_of_birth": 1995
+        },
+        {
+            "name": "Ymir",
+            "phone": "8574696",
+            "email": "ymir19@ru.is",
+            "year_of_birth": 2000
+        },
+        {
+            "name": "Jason",
+            "phone": "8445921",
+            "email": "jason19@ru.is",
+            "year_of_birth": 1998
+        },
+        {
+            "name": "Daniel",
+            "phone": "8959337",
+            "email": "danielc19@ru.is",
+            "year_of_birth": 1995
+        },
+        {
+            "name": "Kristofer",
+            "phone": "8233384",
+            "email": "kristofer@ru.is",
+            "year_of_birth": 2000
+        },
+        {
+            "name": "Bjartur",
+            "phone": "er",
+            "email": "kongurinn",
+            "year_of_birth": 2000
+        }
+    ],
+    "sports": [
+        {
+            "name": "Sund",
+            "members": [
+                0,
+                2
+            ]
+        }
+    ]
+}

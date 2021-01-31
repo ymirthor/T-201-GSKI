@@ -1,0 +1,36 @@
+ls
+mkdir Ass
+mkdir Tits
+ls
+cd Ass
+mkdir Buns
+mkdir Butt
+mkdir Buttocks
+mkdir Booty
+ls
+mkdir Pooper
+ls
+rm Pooper
+ls
+cd Booty
+mkdir Money-Maker
+mkdir Bubble-Butt
+cd ..
+cd ..
+ls
+cd Tits
+mkdir Breasts
+mkdir Boobies
+mkdir Milkers
+ls
+cd Milkers
+mkdir Hooters
+mkdir Melons
+mkdir Chestesticles
+ls
+cd ..
+ls
+rm Milkers
+ls
+cd ..
+cd ..

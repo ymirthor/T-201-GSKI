@@ -1,0 +1,24 @@
+mkdir i
+mkdir h
+mkdir g
+mkdir f
+mkdir e
+mkdir d
+mkdir c
+mkdir b
+mkdir a
+mkdir j
+ls
+rm e
+rm d
+rm c
+rm b
+rm a
+ls
+rm g
+rm h
+rm f
+rm j
+rm i
+ls
+cd ..
